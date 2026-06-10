@@ -59,6 +59,14 @@ const projects = [
     description:
       "Frontend moderne pour un annuaire professionnel.",
   },
+  {
+  title: "Stage Romas",
+  tech: "HTML • Bootstrap",
+  image: "/projects/stageromas.png",
+  demo: "https://adodeme.github.io/stageromas/",
+  description:
+    "Site web réalisé dans le cadre d'un projet de stage."
+  },
 ];
 
 export default function Projects() {
