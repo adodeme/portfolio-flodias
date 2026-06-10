@@ -58,7 +58,8 @@ export default function Hero() {
 
             <a
             href="/cv/cvflodiasadodeme.pdf"
-            download
+            target="_blank"
+            rel="noopener noreferrer"
             className="
                 px-6 py-3
                 rounded-xl
