@@ -174,7 +174,7 @@ export default function Contact() {
             </a>
 
             <a
-                href="#"
+                href="https://www.linkedin.com/in/s%C3%A8d%C3%A9gnon-flodias-adodeme-a17608415/"
                 target="_blank"
                 rel="noreferrer"
             >
